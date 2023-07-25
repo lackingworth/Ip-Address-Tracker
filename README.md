@@ -1,4 +1,4 @@
-# ip-address-tracker-vue
+# Ip-Address-Tracker
 
 ## Project setup
 ```
